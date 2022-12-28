@@ -1,7 +1,9 @@
 # Pewlett-Hackard Analysis
 
+## Overview of Technology
 This project was performed in Postgres SQL with using the data to create tables.  During this project we used JOINS, WHERE statements, ORDER BY, GROUP BY and created a ERD in order to outline the tables with primary and Foreign keys. 
 
+## Analysis of project 
 The purpose of this analysis is to determine the upcoming retirement of staff especially senior staff from the company.  The four major points are as followed.
 
   1.  There are a lot of people retiring soon within the company.
