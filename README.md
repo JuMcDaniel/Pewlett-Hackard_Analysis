@@ -1,6 +1,6 @@
 # Pewlett-Hackard Analysis
 
-This project was performed in Postgres SQL with using the data to create tables.  During this project we used JOINS, WHERE statements, ORDER BY, and created a ERD in order to outline the tables with primary and secondary keys. 
+This project was performed in Postgres SQL with using the data to create tables.  During this project we used JOINS, WHERE statements, ORDER BY, GROUP BY and created a ERD in order to outline the tables with primary and Foreign keys. 
 
 The purpose of this analysis is to determine the upcoming retirement of staff especially senior staff from the company.  The four major points are as followed.
 
@@ -8,7 +8,7 @@ The purpose of this analysis is to determine the upcoming retirement of staff es
   
   ![image](https://user-images.githubusercontent.com/103297084/185147294-e36b28a2-b9ab-4681-a3e8-5c564befe42d.png)
 
-  2.  The area of most concern is the Senior Enginee and Senior staff where there are about 25,000 people retiring from those         positions.
+  2.  The area of most concern is the Senior Enginee and Senior staff where there are about 25,000 people retiring from those positions.
   
   3. There is potential for mentorship opportunities and people who could mentor the next generation of leaders.  The best way to do this is to offer an incentive to start training these people with raises or stipends to progress the company as a whole.
   
